@@ -7,6 +7,6 @@ package cicd.learn.tp1;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("CICD Rocks!");
+        System.out.println("CI/CD Rocks!");
     }
 }
